@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "daggy": "^1.4.0",
+    "immutable": "^4.0.0-rc.12",
+    "immutable-ext": "^1.1.5",
+    "lodash": "^4.17.15",
+    "ramda": "^0.26.1"
+  }
+}
